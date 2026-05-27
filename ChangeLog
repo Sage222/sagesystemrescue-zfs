@@ -1,3 +1,7 @@
+12.00+2.4.2 (2026-05-27)
+- Bundle ZFS v2.4.2 (Linux kernel 4.18-7.0 support)
+- See: https://github.com/openzfs/zfs/releases/tag/zfs-2.4.2
+
 SystemRescue ChangeLog
 ======================
 
