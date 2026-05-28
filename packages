@@ -47,7 +47,7 @@ efibootmgr
 efitools
 efivar
 elinks
-systemrescue+zfs/epiphany
+epiphany
 ethtool
 exfatprogs
 expac
@@ -60,7 +60,7 @@ foremost
 fsarchiver
 galculator
 gawk
-systemrescue+zfs/ghex
+ghex
 gnu-netcat
 gnupg
 gpart
@@ -99,7 +99,7 @@ libfaketime
 libisoburn
 libldm
 libvncserver
-systemrescue+zfs/linux-firmware
+linux-firmware
 linux-firmware-bnx2x
 linux-firmware-qlogic
 linux-firmware-marvell
@@ -125,7 +125,7 @@ mdadm
 memtest86+
 memtest86+-efi
 memtester
-systemrescue+zfs/mesa-minimal
+mesa
 minicom
 mkinitcpio
 mkinitcpio-nfs-utils
